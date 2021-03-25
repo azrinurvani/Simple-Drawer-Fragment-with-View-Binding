@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/general"
+        android:title="General">
+        <menu>
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Home" />
+            <item
+                android:id="@+id/secondMenu"
+                android:icon="@drawable/ic_local_activity_black_24dp"
+                android:title="Another " />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/communication"
+        android:title="Communication">
+        <menu>
+            <item
+                android:id="@+id/home1"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Home" />
+            <item
+                android:id="@+id/secondMenu2"
+                android:icon="@drawable/ic_local_activity_black_24dp"
+                android:title="Another " />
+        </menu>
+    </item>
+
+</menu>
